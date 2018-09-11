@@ -1,1 +1,0 @@
-# fit-data-drill-artifacts
